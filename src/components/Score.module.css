@@ -1,0 +1,13 @@
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border: 1px solid grey;
+    margin-top: 2vh;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
