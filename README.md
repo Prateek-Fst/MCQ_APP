@@ -8,7 +8,7 @@ To get started with the quiz app, follow these steps:
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/prateek-fst/MCQ_APP.git
 ## Navigate to the project directory:
 cd frontend
 ## Install the dependencies:
